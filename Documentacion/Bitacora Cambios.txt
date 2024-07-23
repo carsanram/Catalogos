@@ -35,6 +35,7 @@
 15/07/2024      1.2.1       Se cambio la forma de dar alta las UMAs y SMGs
 16/07/2024      1.2.1       Se termino la implementacion de las UMAs y SMG estimados
                 1.2.1       Se termino que se puedan copiar las primas de trabajo de un año a otro
+                1.2.1       Se compila
 
 
 
