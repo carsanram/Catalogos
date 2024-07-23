@@ -526,7 +526,7 @@
     <Content Include="Catalogos.ico" />
     <Content Include="Resources\IMSS 02.png" />
     <Content Include="Resources\msg.wav" />
-    <Content Include="Bitacora de Cambios\Bitacora Cambios.txt" />
+    <Content Include="Bitacora Cambios.txt" />
     <None Include="packages.config" />
     <None Include="Resources\Buscar.png" />
     <None Include="Resources\Logo SF.png" />

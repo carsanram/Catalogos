@@ -1,0 +1,56 @@
+﻿Produccion
+-------------------------------------------------------------------------------------------------------------------------------------
+20/05/2023      1.0.0.1     Correccion en validacion de fecha para que se valide la fecha de Hoy, formulario foActivar
+20/05/2023      1.0.0.2     Se quito mensaje que impedia que se cargara bien el formulario foSplash
+24/05/2023      1.0.0.3     Se corrigio el Bug de la fecha anterior a la de registro
+29/06/2023      1.0.0.4     Se agrego la version del compilado al menu principal
+02/06/2023      1.0.0.6     Se corrigio la captura de factor de recargo en catalogo de INPC
+06/06/2023      1.0.0.7     Se movio al principio el numero de version
+19/06/2023      1.0.0.8     Se modificaron formularios para que no puedan se redimensionado
+23/07/2023      1.0.0.9     Modificar el catalago de UMAs y SMGs futuras con inflacion proporcionadas en el futuro
+01/08/2023      1.0.0.10    Se actualizo el tool tip de controles
+07/08/2023      1.0.0.12    Modificacion de todas las pantalla en el mensaje de informacion
+                            Ajuste de pantalla de 1300 x 500
+27/08/2023      1.1.1       Version compilada
+02/09/2023      1.1.2       Se agrego la app de Restaurar la base de datos desde un respaldo, llamado desde la aplicacion
+19/09/2023      1.1.3       Se agrego que se force la salida de la aplicacion cuando se restablece la Base de Datos
+                            Version Compilada
+22/09/2023      1.1.3       Inicio exportar catalogos a excel (Desarrollo)
+23/09/2023                  Termino exportar catalogos a excel (Desarrollo)
+                            Version Compilada
+25/09/2023                  Version Compilada
+27/10/2023                  Se agrego la ruta del reportes para exportar catalogos
+                            Version Compilada
+01/12/2023      1.1.3       Se corrigio alta UMA-SMG Estimados
+                            Version Compilada
+
+18/06/2024      1.2.0       Se agrego al catalogo de UMA el SMG de la frontera (cambio en forma y tabla)
+19/06/2024      1.2.0       Se agraga el catalogo de Primas de riesgo de trabajo trabajador independiente
+22/06/2024      1.2.0       Se agrega el catalogo de actividadess y subactividades de trabajador independiente
+27/06/2024      1.2.0       Se corrigio los catalogos de UMAs        
+                            Se agrego catalogos de cuotas modalidad 33
+28/06/2024      1.2.0       Se modifico la exportacion de catalogos a excel
+01/07/2024      1.2.0       Se modifico el catalogo M33 para mejoras de filtros
+05/07/2024      1.2.0       Se cambio el catalogo de despacho por el que esta en BD Pensiones
+15/07/2024      1.2.1       Se cambio la forma de dar alta las UMAs y SMGs
+16/07/2024      1.2.1       Se termino la implementacion de las UMAs y SMG estimados
+                1.2.1       Se termino que se puedan copiar las primas de trabajo de un año a otro
+
+
+
+
+                             Resolucion minima del monitor 1366 x 768
+
+
+
+
+
+
+
+
+
+
+Desarrollo
+------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------
