@@ -37,6 +37,7 @@
                 1.2.1       Se termino que se puedan copiar las primas de trabajo de un año a otro
                             Cambio
 22/07/2024      1.2.1       Creacion de repositorio remoto
+                            Envio de cambios
 
 
 
