@@ -252,7 +252,7 @@
 
         Catch ex As Exception
 
-            If ex.ToString.Contains("está restringida para ser única") Then
+            If ex.ToString.Contains("Está Restringida Por Ser Única..") Then
                 vg.gMensaje = "Ya Existe el Año-Mes (Clave [ " & txtID.Text & " ] ) Ingrese Otro Año-Mes-Inflación"
                 Call mUniversal.SubMsgWarning(vg.gMensaje, Me, 4)
                 '--------------------------------------------
